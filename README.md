@@ -1,1 +1,1 @@
-
+Odin recipes is a project where I will practice my web development skills. Upon complettion I will have a better understanding of HTML, CSS and Commiting changes to GitHub with descriptive commit messages. 
